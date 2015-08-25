@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/pre-dexed/debug/classes-f571dc09df7c961002d1271db77c932bfa901f51.jar" />
+    </item>
+    <item
+        jar="/home/gnome/AndroidLoginAndRegistration1/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/pre-dexed/debug/volley-8d2a238448e868cf23284c3200bc6970d29167f8.jar" />
+    </item>
+    <item
+        jar="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-fe198e173f98b437e77996210dd518356610e160.jar" />
+    </item>
+    <item
+        jar="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/pre-dexed/debug/classes-e562cf22eb472bd138674e5d39a146f80becbc4f.jar" />
+    </item>
+    <item
+        jar="/home/gnome/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/gnome/AndroidLoginAndRegistration1/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-b9a63769ffabc2ac32805c4a1e38b29ea17fb2e4.jar" />
+    </item>
+
+</items>
